@@ -30,8 +30,8 @@ WiFiClient espClient;
 PubSubClient client(espClient);
 
 
-const char* ssid = "weihnachtsbaum";
-const char* password = "alliwant4xmas";
+const char* ssid = "XXX";
+const char* password = "XXX";
 const char* mqtt_server = "3L15t4.xyz";
 const char* mqtt_topic = "ddiBaum";
 
